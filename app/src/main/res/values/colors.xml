@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="verde_deepsign">#FF1F3D2E</color>
+    <color name="coral_deepsign">#FFE8825C</color>
+</resources>

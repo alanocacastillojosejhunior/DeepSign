@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/boton_forma"
+    android:backgroundTint="#E8825C"
+    android:padding="20dp"
+    android:layout_marginBottom="16dp">
+
+    <TextView
+        android:id="@+id/txtNombreCategoria"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nombre categoria"
+        android:textSize="20sp"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        android:gravity="center" />
+
+</LinearLayout>

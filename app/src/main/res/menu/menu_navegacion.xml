@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_inicio"
+        android:icon="@drawable/ic_nav_inicio"
+        android:title="Inicio" />
+    <item
+        android:id="@+id/nav_favoritos"
+        android:icon="@drawable/ic_nav_favoritos"
+        android:title="Favoritos" />
+
+    <item
+        android:id="@+id/nav_traducir"
+        android:title="Traducir" />
+    <item
+        android:id="@+id/nav_quiz"
+        android:icon="@android:drawable/ic_menu_help"
+        android:title="Quiz" />
+
+
+
+
+    <item
+        android:id="@+id/nav_mas"
+        android:icon="@drawable/ic_nav_mas"
+        android:title="Más" />
+
+</menu>

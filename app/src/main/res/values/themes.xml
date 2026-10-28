@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.DeepSign" parent="Theme.Material3.DayNight.NoActionBar"></style>
+
+    <style name="Theme.DeepSign" parent="Base.Theme.DeepSign" />
+
+    <style name="Theme.DeepSign.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@android:color/white</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/icono_transparente</item>
+        <item name="postSplashScreenTheme">@style/Theme.DeepSign</item>
+        <item name="android:windowDisablePreview">true</item>
+    </style>
+</resources>
